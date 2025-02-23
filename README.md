@@ -1,6 +1,6 @@
 # AI_Village ( 10 year , open source projct )
 AI Village envisions a world where true freedom is realized—where technology empowers humanity to live a fulfilling, meaningful, and balanced life.
-<img src="images/aivillage.png" alt="AI Village" width="600">
+<img src="images/aivillage.png" alt="AI Village" width="400" height="400">
 
 AI Village is a futuristic, open-source community where AI and machines handle farming, energy, healthcare, and daily needs, blending city comforts with nature. Humans are free to pursue passions, explore consciousness, and live truly liberated lives.
 
