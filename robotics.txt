@@ -1,0 +1,3 @@
+Discuss the role of robotics in automating farming, cooking, waste management, and other essential services. 
+Contribute designs, frameworks, and innovations to build an efficient AI-powered ecosystem.
+
